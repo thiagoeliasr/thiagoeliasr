@@ -5,3 +5,5 @@ I'm a FullStack developer working at [UP IT Services](http://upitservices.com.br
 I've been fighting cancer for the 2nd time now and I'm really proud for win this fight both times. I really like to tell people about my story and help them when they´re in difficult situations like this.
 
 Oh, and I was forgetting: I love to play guitar 🎸 and sing. (Even though I'm far away from being a good singer 🤦🏻‍♂️)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=thiagoeliasr&count_private=true&theme=dark&show_icons=true)](https://github.com/thiagoeliasr/)
